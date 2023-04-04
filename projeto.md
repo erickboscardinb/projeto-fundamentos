@@ -7,7 +7,11 @@
 ## *Stakeholders*
 |NOME|CARGO|E-MAIL|
 |:---|:---|:---|
+<<<<<<< HEAD
 Pedro Henrique Baltazar da Silva|Gerente de Projeto|pedro.baltazar@estudante.ifro.edu.br|
+=======
+|Natam Menegheti Farias|desenvolvedor|natammfarias@gmail.com|
+>>>>>>> bd64e122195c89e3ec60ba51327ee853c013d03a
 
 # Sumário
 
