@@ -1,14 +1,15 @@
 <img src='/img/logo.png' alt='logo da empresa' width='150px' heidth='150px'/>
 
-# *FIBONACCI MANAGEMENT SYSTEM*
+# *Coach Sports*
 
 # PROJETO DE SOFTWARE
 
 ## *Stakeholders*
 |NOME|CARGO|E-MAIL|
 |:---|:---|:---|
+|Erick Brayan Boscardim Barbosa|gerente do projeto|erickbosca@gmail.com|
 |Natam Menegheti Farias|desenvolvedor|natammfarias@gmail.com|
-
+ 
 # Sumário
 
 * [RESUMO DO PROJETO](#resumo-do-projeto)
@@ -41,11 +42,10 @@
 # RESUMO DO PROJETO
 | ITEM | DESCRIÇÃO|
 |:---|:---|
-| NOME DO PROJETO | Fibonacci Management System |
-| GERENTE DO PROJETO | Wagner Ferreira |
-| PRINCIPAL OBJETIVO | Auxiliar o sistema de ensino através de ferramentas síncronas e assíncronas que serão usadas por funcionários e alunos da instituição de ensino. |
-| BENEFÍCIOS ESPERADOS |* Melhor acompanhamento pedagógico;<br/>* Redução da evasão escolar;<br/>* Aumento do número de matrículas;<br/>* Redução da inadimplência escolar;<br/>* Automatização dos processos financeiross|
-| INÍCIO E TÉRMINO PREVISTOS | 14/03/2023 - 07/12/2023 |
+| NOME DO PROJETO | Coach Sports|
+| GERENTE DO PROJETO | Erick Brayan Boscardim Barbosa |
+| PRINCIPAL OBJETIVO | A empresa Coach Sport 's trata-se de uma empresa focada em artigos de esportes em geral, vendemos camisas, bolas, tenis esportivos, redes profissionais, etc... Nosso objetivo é ser ou estar entre uma das melhores lojas de vendas nesse ramo, prezando a qualidade e satisfação do cliente sempre. Atualmente estamos há 5 anos no mercado de trabalho e com uma ótima clientela. |
+| BENEFÍCIOS ESPERADOS |* Melhor Loja de vilhena em artigos esportivos;<br/>* Preços especiais ;<br/>* Qualidade garantida;<br/>* Frete gratis para todo o Brasil;<br/>*  | 04/04/2023 - 07/12/2023 |
 
 [ [INÍCIO](#fibonacci-management-system) ]
 
@@ -53,20 +53,20 @@
 
 ## PROPÓSITO DESTE DOCUMENTO
 
-Este documento destina-se aos clientes, engenheiros, gerentes e demais stakeholders deste projeto. O propósito deste documento é apresentar a descrição dos serviços e funções que o sistema **_Fibonacci Management System_** deve prover, bem como as suas restrições de operação e propriedades gerais, a fim de ilustrar uma descrição detalhada do sistema para um auxílio durante as etapas de análise, projeto e testes. O documento especifica todos os requisitos funcionais e não funcionais do sistema e contém a prototipagem, além de diagramas UML que foram construídos levando-se em conta as funcionalidades identificadas durante a fase de concepção do sistema.
+Este documento destina-se aos clientes, engenheiros, gerentes e demais stakeholders deste projeto. O propósito deste documento é apresentar a descrição dos serviços e funções que o sistema **_Coach Sports_** deve prover, bem como as suas restrições de operação e propriedades gerais, a fim de ilustrar uma descrição detalhada do sistema para um auxílio durante as etapas de análise, projeto e testes. O documento especifica todos os requisitos funcionais e não funcionais do sistema e contém a prototipagem, além de diagramas UML que foram construídos levando-se em conta as funcionalidades identificadas durante a fase de concepção do sistema.
 
 ## CONCEPÇÃO DO SISTEMA
 
-Foram usados três métodos para que pudessem ser obtidos os requisitos do sistema:
-* Entrevista:
-  * Discussões individuais de um representante da equipe com José de Arimatéia, diretor da Escola Fibonacci.
+Foram necessarios apenas alguns amigos com um sonho empreendedor de terem uma loja de esportes :
+* Pedro Baltazar foi o responsavel pela entrevista:
+  * Discussões individuais de um representante da equipe com Erick Brayan, diretor da loja Coach Sports.
 * Consulta com especialista:
-  * Gustavo, coordenador de pós-graduação do curso de Ciências Contábeis da Universidade Federal orientou na concepção do sistema devido sua experiência em trabalhar em cursos semipresenciais e ser um dos consultores da empresa;
-  * Alex Sandro Gomes, professor do Centro de Informática da Universidade Federal orientou na análise de requisitos devido a sua grande experiência em desenvolvimento de software educativo;
-  * Silvio Zanchetti, coordenador do curso on-line ITUC/AL, foi outro entrevistado;
-  * Manasses dos Santos Silva, responsável pelo treinamento dos funcionários do laboratório HEXAL BRASIL.
+  * Alisson,Treinador do Clube de Regatas do Flamengo, orientou na concepção da empresa devido sua experiência em trabalhar com times e esportes e ser um dos consultores da empresa;
+  * Thauan Wictor, professor de Educação fisica da Universidade Federal, orientou na análise de requisitos devido a sua grande experiência em Interações com pessoas;
+  * Natam, Personal Trainer, foi outro entrevistado;
+  * Lemuel, responsável pelo treinamento dos Atletas Olimpicos da seleção do BRASIL.
 * Prototipação:
-  * Representações das interfaces gráficas com diferentes níveis de fidelidade, aprovadas pela empresa contratante.
+  * Representações dos esportes com diferentes níveis de fidelidade, a melhor em qualidade e com autenticidade de ponta.
 
 
 
