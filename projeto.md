@@ -12,7 +12,7 @@
 |Erick Brayan Boscardim Barbosa|gerente do projeto|erickbosca@gmail.com|
 |Natam Menegheti Farias|desenvolvedor|natammfarias@gmail.com|
 |Alisson Dias da Silva| Desenvolvedor| diasdasilvaalisson75@gmail.com|
-|Lemuel Berequias Santana Lemes De Souza| santanalemue@gmail.com|
+|Lemuel Berequias Santana Lemes De Souza|Desenvolvedor| santanalemue@gmail.com|
  
 # Sumário
 
