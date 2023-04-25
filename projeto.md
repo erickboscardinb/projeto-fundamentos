@@ -7,10 +7,12 @@
 ## *Stakeholders*
 |NOME|CARGO|E-MAIL|
 |:---|:---|:---|
-Pedro Henrique Baltazar da Silva|Gerente de Projeto|pedro.baltazar@estudante.ifro.edu.br|
-|Natam Menegheti Farias|desenvolvedor|natammfarias@gmail.com|
+|Pedro Henrique Baltazar da Silva|Desenvolvedor|pedro.baltazar@estudante.ifro.edu.br|
+|Thauan Wictor Alves Muniz|Desenvolvedor|thauanwictor05@gmail.com|
 |Erick Brayan Boscardim Barbosa|gerente do projeto|erickbosca@gmail.com|
 |Natam Menegheti Farias|desenvolvedor|natammfarias@gmail.com|
+|Alisson Dias da Silva| Desenvolvedor| diasdasilvaalisson75@gmail.com|
+|Lemuel Berequias Santana Lemes De Souza| santanalemue@gmail.com|
  
 # Sumário
 
@@ -55,7 +57,9 @@ Pedro Henrique Baltazar da Silva|Gerente de Projeto|pedro.baltazar@estudante.ifr
 
 ## PROPÓSITO DESTE DOCUMENTO
 
-Este documento destina-se aos clientes, engenheiros, gerentes e demais stakeholders deste projeto. O propósito deste documento é apresentar a descrição dos serviços e funções que o sistema **_Coach Sports_** deve prover, bem como as suas restrições de operação e propriedades gerais, a fim de ilustrar uma descrição detalhada do sistema para um auxílio durante as etapas de análise, projeto e testes. O documento especifica todos os requisitos funcionais e não funcionais do sistema e contém a prototipagem, além de diagramas UML que foram construídos levando-se em conta as funcionalidades identificadas durante a fase de concepção do sistema.
+Este documento destina-se aos clientes, atletas, amantes de demais esportes, escolas, e centros de treinamento e demais interessados neste projeto. O objetivo deste documento é apresentar uma descrição dos serviços e funções que o sistema **Coach Sports** deve provar, bem como suas restrições de operação e propriedades gerais, a fim de ilustrar uma descrição detalhada do sistema para um auxílio durante as etapas de análise, projeto e testículos. O documento especifica todos os requisitos funcionais e não funcionais do sistema e contém a prototipagem, além de diagramas UML que foram construídos levando-se em conta as deficiências identificadas durante a fase de concepção do sistema.
+Concepção do sistema:
+Foram necessários apenas alguns amigos com um sonho empreendedor de ter uma loja de esportes:
 
 ## CONCEPÇÃO DO SISTEMA
 
@@ -76,10 +80,9 @@ Foram necessarios apenas alguns amigos com um sonho empreendedor de terem uma lo
 
 Para evitar interpretações incorretas deste documento, algumas convenções e termos específicos são descritos a seguir:
 
-* EaD: Eaducação a Distância
-* Moodle: Ambiente Virtual que hospedará os cursos oferecidos
-* Exame Final: Avaliação destinada aos estudantes que obtiveram média anual inferior à 60 pontos
-
+* EaD: Esportes a Distância.
+* SolCS: Site oficial das lojas Coach Sports.
+* Esporte inclusivo: Destinada a pessoas com deficiências de locomoção e intelectual.
 [ [INÍCIO](#fibonacci-management-system) ]
 
 # DESCRIÇÃO GERAL
@@ -88,15 +91,15 @@ Para evitar interpretações incorretas deste documento, algumas convenções e 
 
 ### NO ESCOPO
 
-O projeto consiste na construção de uma ferramenta para gerenciamento de aprendizado *(Learning Management System - LMS)*, que possa atender os requisitos da Escola Fibonacci, no fator de educação à distância. O projeto visa auxiliar o sistema de ensino através de ferramentas síncronas e assíncronas que serão usadas por funcionários e alunos da instituição de ensino.
-O escopo do **produto** pode ser consultado nos [requisitos do software](#requisitos-do-software)
+O projeto consiste nas vendas de produtos esportivos e vestimentas apropriadas para o esporte, que possa atender aos amantes de cada esporte existente. O projeto visa auxiliar o sistema de ensino esportivos através de doações de materiais esportivos que serão usadas por funcionários e alunos da instituição de ensino. O escopo do produto pode ser consultado nos requisitos do software.
+O escopo do **Arsenal esportivo** pode ser consultado nos [requisitos do software](#requisitos-do-software)
 
 ### FORA DO ESCOPO
 
 Não fazem parte do escopo do projeto:
-* Instalação e configuração do ambiente tecnológico do cliente;
-* Treinamento de instalação, configuração, administração e  utilização do sistema;
-* Integração com quaisquer sistemas ou base de dados do ambiente tecnológico do cliente.
+* Vendas de materiais de baixa qualidade;
+* Vendas de materiais falsificados ou estragados;
+* Testes de materiais dentro das lojas;
 
 ## Usuários do sistema
 |USUÁRIO|DESCRIÇÃO|
