@@ -91,7 +91,8 @@ Para evitar interpretações incorretas deste documento, algumas convenções e 
 
 ### NO ESCOPO
 
-O projeto consiste nas vendas de produtos esportivos e vestimentas apropriadas para o esporte, que possa atender aos amantes de cada esporte existente. O projeto visa auxiliar o sistema de ensino esportivos através de doações de materiais esportivos que serão usadas por funcionários e alunos da instituição de ensino. O escopo do produto pode ser consultado nos requisitos do software.
+O projeto consiste nas v
+endas de produtos esportivos e vestimentas apropriadas para o esporte, que possa atender aos amantes de cada esporte existente. O projeto visa auxiliar o sistema de ensino esportivos através de doações de materiais esportivos que serão usadas por funcionários e alunos da instituição de ensino. O escopo do produto pode ser consultado nos requisitos do software.
 O escopo do **Arsenal esportivo** pode ser consultado nos [requisitos do software](#requisitos-do-software)
 
 ### FORA DO ESCOPO
@@ -188,9 +189,33 @@ A especificação dos requisitos deste documento deve seguir as recomendações 
 A tabela a seguir contém a relação dos Requisitos Funcionais elicitados, com as colunas: identificador, nome, descrição e prioridade:
 
 | IDENTIFICADOR | NOME | DESCRIÇÃO |
-:---|:---|:---|
-|RF-001 |Nome do Requisito | Descreva aqui as informações sobre o requisito |
-|RF-002 | Nome do Requisito | Descreva aqui as informações sobre o segundo requisito |
+|:---|:---|:---|
+|RF-001 |Compras | Um programa que conta a quantidade de compras que o cliente fez. |
+|RF-002 |Cadastro |O sistema deverá fazer cadastros de novos clientes. |
+|RF-003 |Controle de estoque| Um programa que sabe a quantidade de produtos no estoque.|
+|RF-004 |Controle de estoque|Um programa que realiza o aluguel de artigos esportivos|
+|RF-005 |Método de pagamento|Fazer com que o sistema tenha diversas formas de pagamento sejam utilizadas como
+pic pay, cartão de crédito, debito, dinheiro etc.|
+|RF-006|Prestações|Fazer com que o sistema conta com prestações para que o cliente tenha a
+possibilidade de pagar a prestação.|
+|RF-007 |Carrinho para as compras|Ter um sistema que conta com a possibilidade de adicionar carrinhos caso o usuário
+goste do produto e queira comprar mais tarde.|
+|RF-008 |Notificações de ofertas|Ter um sistema que realiza notificação quando há alguma oferta do produto que ele
+deseje.|
+|RF-009 |Chegada de produtos no estoque|Realizar um programa de banco que armazena cada produto que chegar no estabelecimento.|
+|RF-010 |saida do estoque|Realizar um programa que contabiliza cada produto que sai da loja|
+|RF-011 |Possibilitar vendas|O sistema deve possibilitar as vendas de produtos esportivos para todas as idades.|
+|RF-012 |Doação |O sistema deve possibilitar a doação de produtos esportivos que serão usados pelos professores juntos com seus alunos.|
+|RF-013 |Controle de qualidade |O sistema deve possibilitar a revisão dos produtos, e a divisão dos de baixa qualidade com os de alta qualidade.|
+|RF-014 |chat|O sistema deve ter um meio de comunicação entre o vendedor e o cliente.|
+|RF-015 |Ajuda para deficientes|Ter um botão de fácil acesso caso o cliente/usuário que tenha alguma deficiência física. .|
+|RF-016 |Segurança|O sistema deve oferecer proteção dos dados do usuario.|
+|RF-017 |Chegada de produtos no estoque|O sistema deve .|
+|RF-018 |Chegada de produtos no estoque|O sistema deve .|
+|RF-019 |Chegada de produtos no estoque|O sistema deve .|
+|RF-020 |Chegada de produtos no estoque|O sistema deve .|
+
+
 
 
 ## Requisitos Não Funcionais
@@ -198,8 +223,20 @@ A tabela a seguir contém a relação com os Requisitos Não Funcionais identifi
 
 | IDENTIFICADOR | NOME | DESCRIÇÃO |
 |:---|:---|:---|
-|RNF-001 |Nome do Requisito |Descreva aqui as informações sobre o requisito |
-|RNF-002 |Nome do Requisito |Descreva aqui as informações sobre o segundo requisito |
+|RNF-001 |Velocidade do sistema|O processador é um i3 de geração 9000, com 2 pentes de 4gb de memoria ram|
+|RNF-002 |segurança|Segurança do sistema em relação a ataques cibernéticos |
+|RNF-003 |Velocidade do sistema|O processador é um i3 de geração 9000, com 2 pentes de 4gb de memoria ram|
+|RNF-004 |segurança|Segurança do sistema em relação a ataques cibernéticos |
+|RNF-005 |Barra de pesquisa|Realizar um programa onde o produto desejado pelo usuário na barra de pesquisa apareça com preço e quantidade em estoque. |
+|RNF-006 |Filtro de pesquisa|Realizar um sistema onde o cliente coloque um produto genérico Ex:(chuteira) apareça um catalogo somente com produto desejado.|
+|RNF-007 |Filtro para Daltonicos|Ter um sistema que conta com cores para daltonismo. |
+|RNF-008 |Preferências do cliente|Ter um sistema que conta com atalhos para tipo de produtos que o cliente
+prefere. |
+|RNF-009 |Filtro do estoque|SAber a quantidade de itens repetidos no estoque. |
+|RNF-010 |Tema|Onde o usuario pode editar o tema da pagina. |
+
+
+
 
 
 [ [INÍCIO](#fibonacci-management-system) ]
