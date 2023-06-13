@@ -49,7 +49,7 @@
 | NOME DO PROJETO | Coach Sports|
 | GERENTE DO PROJETO | Erick Brayan Boscardim Barbosa |
 | PRINCIPAL OBJETIVO | A empresa Coach Sport 's trata-se de uma empresa focada em artigos de esportes em geral, vendemos camisas, bolas, tenis esportivos, redes profissionais, etc... Nosso objetivo é ser ou estar entre uma das melhores lojas de vendas nesse ramo, prezando a qualidade e satisfação do cliente sempre. Atualmente estamos há 5 anos no mercado de trabalho e com uma ótima clientela. |
-| BENEFÍCIOS ESPERADOS |* Melhor Loja de vilhena em artigos esportivos;<br/>* Preços especiais ;<br/>* Qualidade garantida;<br/>* Frete gratis para todo o Brasil;<br/>*  | 04/04/2023 - 07/12/2023 |
+| BENEFÍCIOS ESPERADOS |* Melhor Loja de vilhena em artigos esportivos;<br/>* Preços especiais ;<br/>* Qualidade garantida;<br/>* Frete gratis para todo o Brasil;<br/>  | 04/04/2023 - 07/12/2023 |
 
 [ [INÍCIO](#fibonacci-management-system) ]
 
