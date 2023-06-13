@@ -57,7 +57,7 @@
 
 ## PROPÓSITO DESTE DOCUMENTO
 
-Este documento destina-se aos clientes, atletas, amantes de demais esportes, escolas, e centros de treinamento e demais interessados neste projeto. O objetivo deste documento é apresentar uma descrição dos serviços e funções que o sistema **Coach Sports** deve provar, bem como suas restrições de operação e propriedades gerais, a fim de ilustrar uma descrição detalhada do sistema para um auxílio durante as etapas de análise, projeto e testículos. O documento especifica todos os requisitos funcionais e não funcionais do sistema e contém a prototipagem, além de diagramas UML que foram construídos levando-se em conta as deficiências identificadas durante a fase de concepção do sistema.
+Este documento destina-se aos clientes, atletas, amantes de demais esportes, escolas, e centros de treinamento e demais interessados neste projeto. O objetivo deste documento é apresentar uma descrição dos serviços e funções que o sistema **Coach Sports** deve provar, bem como suas restrições de operação e propriedades gerais, a fim de ilustrar uma descrição detalhada do sistema para um auxílio durante as etapas de análise, projeto e textículos. O documento especifica todos os requisitos funcionais e não funcionais do sistema e contém a prototipagem, além de diagramas UML que foram construídos levando-se em conta as deficiências identificadas durante a fase de concepção do sistema.
 Concepção do sistema:
 Foram necessários apenas alguns amigos com um sonho empreendedor de ter uma loja de esportes:
 
