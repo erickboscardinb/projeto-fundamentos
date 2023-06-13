@@ -1,4 +1,4 @@
-<img src='/img/logo.png' alt='logo da empresa' width='150px' heidth='150px'/>
+<img src='https://github.com/erickboscardinb/projeto-fundamentos/assets/127432874/d42339e3-cd88-4273-a753-74e8af2c7140' alt='logo da empresa' width='150px' heidth='150px'/>
 
 # *Coach Sports*
 
