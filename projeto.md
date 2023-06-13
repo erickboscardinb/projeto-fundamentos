@@ -231,7 +231,7 @@ A tabela a seguir contém a relação com os Requisitos Não Funcionais identifi
 |RNF-006 |Filtro de pesquisa|Realizar um sistema onde o cliente coloque um produto genérico Ex:(chuteira) apareça um catalogo somente com produto desejado.|
 |RNF-007 |Filtro para Daltonicos|Ter um sistema que conta com cores para daltonismo. |
 |RNF-008 |Preferências do cliente|Ter um sistema que conta com atalhos para tipo de produtos que o cliente prefere. |
-|RNF-009 |Filtro do estoque|SAber a quantidade de itens repetidos no estoque. |
+|RNF-009 |Filtro do estoque|saber a quantidade de itens repetidos no estoque. |
 |RNF-010 |Tema|Onde o usuario pode editar o tema da pagina. |
 
 
