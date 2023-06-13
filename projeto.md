@@ -210,10 +210,10 @@ deseje.|
 |RF-014 |chat|O sistema deve ter um meio de comunicação entre o vendedor e o cliente.|
 |RF-015 |Ajuda para deficientes|Ter um botão de fácil acesso caso o cliente/usuário que tenha alguma deficiência física. .|
 |RF-016 |Segurança|O sistema deve oferecer proteção dos dados do usuario.|
-|RF-017 |Chegada de produtos no estoque|O sistema deve .|
-|RF-018 |Chegada de produtos no estoque|O sistema deve .|
-|RF-019 |Chegada de produtos no estoque|O sistema deve .|
-|RF-020 |Chegada de produtos no estoque|O sistema deve .|
+|RF-017 |Processamento de vendas|O sistema deve permitir registrar as vendas realizadas na loja, incluindo informações sobre os produtos, quantidades, preços, descontos, formas de pagamento e dados do cliente |
+|RF-018 |Gestão de clientes|O sistema deve oferecer um atendimento personalizado, criar programas de fidelidade e enviar comunicações direcionadas aos clientes. |
+|RF-019 |Administração de promoções|O sistema deve ser capaz de monitorar o desempenho das promoções e gerar relatórios sobre sua eficácia.|
+|RF-020 |Gerenciamento de estoque|O sistema deve registrar a entrada e saída de itens, realizar atualizações automáticas de estoque, gerar relatórios de inventário e alertar quando determinados produtos estiverem com baixa quantidade.|
 
 
 
@@ -223,7 +223,7 @@ A tabela a seguir contém a relação com os Requisitos Não Funcionais identifi
 
 | IDENTIFICADOR | NOME | DESCRIÇÃO |
 |:---|:---|:---|
-|RNF-001 |Velocidade do sistema|O processador é um i3 de geração 9000, com 2 pentes de 4gb de memoria ram|
+|RNF-001 |Velocidade do sistema|Carregamento rápidos, processamento eficiente de consultas e capacidade de escalabilidade para lidar com aumento de demanda durante eventos ou promoções especiais. |
 |RNF-002 |segurança|Segurança do sistema em relação a ataques cibernéticos |
 |RNF-003 |Velocidade do sistema|O processador é um i3 de geração 9000, com 2 pentes de 4gb de memoria ram|
 |RNF-004 |segurança|Segurança do sistema em relação a ataques cibernéticos |
