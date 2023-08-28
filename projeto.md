@@ -7,7 +7,6 @@
 ## *Stakeholders*
 |NOME|CARGO|E-MAIL|
 |:---|:---|:---|
-|Pedro Henrique Baltazar da Silva|Desenvolvedor|pedro.baltazar@estudante.ifro.edu.br|
 |Thauan Wictor Alves Muniz|Desenvolvedor|thauanwictor05@gmail.com|
 |Erick Brayan Boscardim Barbosa|gerente do projeto|erickbosca@gmail.com|
 |Natam Menegheti Farias|desenvolvedor|natammfarias@gmail.com|
