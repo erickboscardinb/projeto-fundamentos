@@ -254,6 +254,7 @@ A tabela a seguir contém a relação com os Requisitos Não Funcionais identifi
 
 ![Diagrama de Casos de Uso](/img/use_case_placas.png)
 
+
 ## Descrição / Especificação dos Casos de Uso
 
 ### UC-01 - Cadastrar Professor
@@ -290,7 +291,7 @@ A tabela a seguir contém a relação com os Requisitos Não Funcionais identifi
 [ [INÍCIO](#fibonacci-management-system) ]
 
 # Diagrama de Classes
-
+![Diagrama de Casos de Uso](/img/diagramaClasses.png)
 [ [INÍCIO](#fibonacci-management-system) ]
 
 # Diagrama de Sequências
