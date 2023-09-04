@@ -292,10 +292,30 @@ A tabela a seguir contém a relação com os Requisitos Não Funcionais identifi
 ## Matriz de Rastreabilidade
 
 
-| REQUISITO |UC-01|UC-02|UC-03|UC-04|UC-05|UC-06|UC-07|UC-08|UC-09| UC-10|     
+| REQUISITO |MANTER ENCOMENDAS|ADICIONAR PEDIDO|INCLUIR DADOS DA PLACA|EMITIR RECIBO|RECEBER PAGAMENTOS|ENTREGAR PEDIDOS|RECEBER CUPOM FISCAL|MANTER CLIENTES|  
 |:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
-|RF-001|X| | | | | | | | | |
-|RF-002| |X| |X| | | | | | |
+|RF-001| |X| | | | | | | | 
+|RF-002| | | | | | | | |X|
+|RF-003|X| | | | | | | | | 
+|RF-004| | | | | | | | | | 
+|RF-005| | | | |X| | | | | 
+|RF-006| | | | | | | | | | 
+|RF-007| |X| | | | | | | | 
+|RF-008| | | | | | | | | | 
+|RF-009| | | | | | | | | | 
+|RF-0010| | | | | | | | | | 
+|RF-0011| | | | | | | | | | 
+|RF-0012| | | | | | | | | | 
+|RF-0013| | | | | | | | | | 
+|RF-0014| | | | | | | | | | 
+|RF-0015| | | | | | | | | | 
+|RF-0016| | | | | | | | | | 
+|RF-0017| | | | | | | | | | 
+|RF-0018| | | | | | | | | | 
+|RF-0019| | | | | | | | | | 
+|RF-0020| | | | | | | | | | 
+
+
 
 [ [INÍCIO](#fibonacci-management-system) ]
 
