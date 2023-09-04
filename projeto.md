@@ -184,7 +184,7 @@ Nos comprometemos com patrocinadores e divulgamos nossos produtos com frequencia
 [ [INÍCIO](#fibonacci-management-system) ]
 
 # Metodologia Adotada no Desenvolvimento
-
+A metodologia de desenvolvimento de software mais adequada para o projeto é o Scrum. É um framework de gerenciamento que as equipes usam para se auto-organizar e trabalhar em direção a um objetivo em comum. Ela nos possibilita a utilizar métodos ágeis em seus projetos tem como principal objetivo auxiliar na gestão e no desenvolvimento de projetos que tenham um prazo curto de entrega.  
 
 [ [INÍCIO](#fibonacci-management-system) ]
 
