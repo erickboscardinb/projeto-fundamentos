@@ -161,15 +161,24 @@ Os usuários devem utilizar um computador com a seguinte configuração mínima:
 Uma vez definidos a necessidade para o sistema e seus requisitos de negócio, é possível compreender melhor o projeto do sistema proposto para elaborar o estudo de viabilidade com os seguintes destaques:
 
 ## Viabilidade Técnica
-Os colaboradores da empresa contratante possuem bastante experiência com aplicações desta natureza, os analistas também estão familiarizados com esta área de aplicação comercial, porém o sistema utiliza uma tecnologia nova, com a qual os analistas e programadores não estão familiarizados. No que se refere ao tamanho do sistema, trata-se de um projeto de médio porte, com baixo nível de complexidade, que não será integrado a outros sistemas, limitando-se a atender a demanda da escola no que se refere à EaD, que, atualmente possui 1.000 alunos matriculados. Conclui-se que o projeto possui viabilidade técnica, em virtude dos baixos riscos identificados.
+Os colaboradores da empresa contratante possuem bastante experiência com aplicações deste ramo. Tendo tamanha profissionalização na área e sabendo como manipular o comércio esportivo, contamos com materiais de ponta
+e com os mais adequadados profissionais esportivos para aulas particulares no Brasil.
+
+
+contamos com entrevistador, treinador do Flamengo, Personal treiner, professor de educação fisica, e um treinador de atletas olímpicos. Acreditando assim, ter a mais adequada equipe para esse projeto.
 
 ## Viabilidade Econômica
 
-Foi realizada uma análise de custo-benefício, e, mesmo com estimativas conservadoras do retorno sobre o investimento e dos benefícios totais, este projeto é viável economicamente. Após a implantação, espera-se uma melhoria na qualidade dos serviços prestados e aumento da capacidade de vagas da unidade escolar.
+Foi realizada uma análise economica na empresa, e após 5 meses da abertura tivemos um retorno superior a de 550% do investimento inicial. Contamos com 23 patrocinadores e mais de 100 alunos matriculados nas aulas particulares de esportes. Ao todo, o rendimento tende a aumentar após a abertura de uma loja fisíca no centro de São Paulo.
+
+investimos em patrocinadores pois sabiamos que os mesmos iriam nos dar muito retorno. Ja nas aulas particulares, focamos nos treinos popis nenhuma outra empresa e esportes oferece tamanha competência para este ramo.
 
 ## Viabilidade Organizacional
 
-Do ponto de vista organizacional, este projeto apresenta baixo risco. Os diretores e coordenadores da instituição demonstram forte interesse no projeto. Espera-se que os professores e alunos aprovem a implantação do sistema, visto que atualmente a escola não possui uma ferramenta específica para o controle das informações, o que está provocando enormes transtornos para a instituição.
+Neste quisito, nosso sistema esta caminhando bem, com professores e técnicos que demonstram interesse e comprometimento com tal projeto. Tendo profissionais de ponta, não pecamos com treinos e avaliações fisicas. Levando até mesmo alguns campeões do Mr. Olympia ao palco.
+
+
+Nos comprometemos com patrocinadores e divulgamos nossos produtos com frequencia, tambem temos reuniões online matinais todas as segundas-feiras para que possamos pontuar os objetivos da semana.
 
 
 [ [INÍCIO](#fibonacci-management-system) ]
