@@ -292,17 +292,18 @@ A tabela a seguir contém a relação com os Requisitos Não Funcionais identifi
 ## Matriz de Rastreabilidade
 
 
-| REQUISITO UC-001|ADICIONAR PEDIDO|INCLUIR DADOS DA PLACA|EMITIR RECIBO|RECEBER PAGAMENTOS|ENTREGAR PEDIDOS|RECEBER CUPOM FISCAL|MANTER CLIENTES|  
-|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
-|RF-001| |X| | | | | | | | |
-|RF-002| | | | | | | | |X| |
-|RF-003|X| | | | | | | | | | 
-|RF-004| | | | | | | | | | |
-|RF-005| | | | |X| | | | | |
-|RF-006| | | | | | | | | | |
-|RF-007| |X| | | | | | | | |
-|RF-008| | | | | | | | | | |
-
+| Requisito | Selecionar Cliente | Cadastro do Produto | Implementado no site | Fora do site | Integrado ao app mobile | Integrado ao sistema de banco de dados | Efetuar venda |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| RF-001 - Cadastro de Usuários | X | X | X |  | X | X | X |
+| RF-002 - Entrada sem Usuário |  |  |  |  | X |  |  |
+| RF-003 - Carrinho de Compras |  | X | X |  | X | X | X |
+| RF-004 - Catálogo de Produtos |  | X | X |  | X | X | X |
+| RF-005 - Sistema de Self-service |  | X | X |  | X |  | X |
+| RF-006 - Sistema de Entrega |  | X | X | X |  | X | X |
+| RF-007 - Sistema de Timing |  | X |  | X | X |  | X |
+| RF-008 - Recuperação de Cadastro | X |  |  |  | X | X |  |
+| RF-009 - Sorveteria Física |  | X | X | X |  |  |  |
+| RF-010 - Sistema de Promoções |  |  |  | X | X | X | X |
 
 
 
