@@ -171,7 +171,7 @@ contamos com entrevistador, treinador do Flamengo, Personal treiner, professor d
 
 Foi realizada uma análise economica na empresa, e após 5 meses da abertura teremos um retorno superior a de 550% do investimento inicial. Contamos com 23 patrocinadores e mais de 100 alunos matriculados nas aulas particulares de esportes. Ao todo, o rendimento tende a aumentar após a abertura de uma loja fisíca oficial no centro de São Paulo.
 
-investimos em patrocinadores pois sabiamos que os mesmos iriam nos dar muito retorno. Ja nas aulas particulares, focamos nos treinos popis nenhuma outra empresa e esportes oferece tamanha competência para este ramo.
+investimos em patrocinadores pois sabiamos que os mesmos iriam nos dar muito retorno. Ja nas aulas particulares, focamos nos treinos pois nenhuma outra empresa e esportes oferece tamanha competência para este ramo.
 
 ## Viabilidade Organizacional
 
