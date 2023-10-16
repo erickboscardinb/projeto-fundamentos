@@ -315,7 +315,8 @@ A tabela a seguir contém a relação com os Requisitos Não Funcionais identifi
 
 # Diagrama de Sequências
 
-[ [INÍCIO](#fibonacci-management-system) ]
+[ [INÍCIO](![image](https://github.com/erickboscardinb/projeto-fundamentos/assets/127432874/dbe07516-291b-4d33-92d3-88db80971360)
+) ]
 
 # Diagrama de Atividades
 
