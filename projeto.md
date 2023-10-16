@@ -315,8 +315,7 @@ A tabela a seguir contém a relação com os Requisitos Não Funcionais identifi
 
 # Diagrama de Sequências
 
-[ [INÍCIO](![image](https://github.com/erickboscardinb/projeto-fundamentos/assets/127432874/dbe07516-291b-4d33-92d3-88db80971360)
-) ]
+[ [INÍCIO](https://github.com/erickboscardinb/projeto-fundamentos/blob/main/img/Captura%20de%20tela%202023-10-16%20173221.png) ]
 
 # Diagrama de Atividades
 
