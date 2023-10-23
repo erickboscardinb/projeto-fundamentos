@@ -317,7 +317,10 @@ A tabela a seguir contém a relação com os Requisitos Não Funcionais identifi
 ![Brayan](img/trabalhoLogin.png)
 [ [INÍCIO](#fibonacci-management-system) ]
 ![Brayan](img/trabalhoEstoque.png)
+[ [INÍCIO](#fibonacci-management-system) ]
 ![Natam](img/trabalhoEscolherProd.png)
+[ [INÍCIO](#fibonacci-management-system) ]
+![alisson](img/trabalhoCarrinho.png)
 
 [ [INÍCIO](#fibonacci-management-system) ]
 
