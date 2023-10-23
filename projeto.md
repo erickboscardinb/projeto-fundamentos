@@ -314,9 +314,9 @@ A tabela a seguir contém a relação com os Requisitos Não Funcionais identifi
 [ [INÍCIO](#fibonacci-management-system) ]
 
 # Diagrama de Sequências
-![Login](img/trabalhoLogin.png)
+![Brayan](img/trabalhoLogin.png)
 [ [INÍCIO](#fibonacci-management-system) ]
-
+![Brayan](img/trabalhoEstoque.png)
 
 
 [ [INÍCIO](#fibonacci-management-system) ]
